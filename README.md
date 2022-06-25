@@ -1,16 +1,23 @@
-### Hi there 👋
+### Helloo! I'm Nícolas Rone, a Computer Science Student 👋
 
-<!--
-**NicolasRTFS/NicolasRTFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: nicolas.rtfs@gmail.com
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: I'm a bad artist too haha
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://github.com/NicolasRTFS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRTFS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRTFS&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/676183236237459468/990266453179654225/IMG-20220416-WA0000_2.png">
+</div>
+
+<div>
+    ![Snake animation](https://github.com/NicolasRTFS/NicolasRTFS/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
