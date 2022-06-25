@@ -17,7 +17,6 @@
   <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/676183236237459468/990266453179654225/IMG-20220416-WA0000_2.png">
 </div>
 
-<div>
+##
+
     ![Snake animation](https://github.com/NicolasRTFS/NicolasRTFS/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
